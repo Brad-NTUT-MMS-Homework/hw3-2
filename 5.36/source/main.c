@@ -17,4 +17,5 @@ int main() {
 
 	int disks = 3;
 	hanoi(disks, 'A', 'C', 'B');
+	return 0;
 }
